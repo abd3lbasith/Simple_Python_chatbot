@@ -1,0 +1,80 @@
+{
+  "questions": [
+    {
+      "question": "what is the capital of Canada",
+      "answer": "Ottawa"
+    },
+    {
+      "question": "how many planets are there in our solar system?",
+      "answer": "eight"
+    },
+    {
+      "question": "How are you",
+      "answer": "I'm doing great!!!"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "My name is PyBot"
+    },
+    {
+      "question": "Hey there",
+      "answer": "Hello"
+    },
+    {
+      "question": "Whats up",
+      "answer": "Not much."
+    },
+    {
+      "question": "Hello",
+      "answer": "Hey there"
+    },
+    {
+      "question": "What is the colour of the skyyy ",
+      "answer": "Blue"
+    },
+    {
+      "question": "how you doing ",
+      "answer": "I'm fine, thank you for asking."
+    },
+    {
+      "question": "brefbovdfebbu",
+      "answer": "sorry didnt understand "
+    },
+    {
+      "question": "qhTA ",
+      "answer": "WHATS UP"
+    },
+    {
+      "question": "/usr/local/bin/python3 /Users/abdulbasith/Assignment:chatbot.py",
+      "answer": "/usr/local/bin/python3 /Users/abdulbasith/Assignment:chatbot.py"
+    },
+    {
+      "question": "who is your favourite proffessor ?",
+      "answer": "Dr. Preeti Raman"
+    },
+    {
+      "question": "Who is the best proff for computer science ",
+      "answer": "Dr. Preeti Raman "
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "you say \"hello' as a greeting",
+      "answer": "hello"
+    },
+    {
+      "question": "rvnfunbgbmbfn",
+      "answer": "invalid text please try again"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "It's Basith"
+    },
+    {
+      "question": "The capital of Martnique is Fort-de-France",
+      "answer": "Fort-de-France"
+    }
+  ]
+}
